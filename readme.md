@@ -1,5 +1,3 @@
-Sure, here's a basic template for a `README.md` file for your Naive Bayes Spam Email Classifier project. You'll need to replace the placeholders with the actual information about your project.
-
 ```markdown
 # Naive Bayes Spam Email Classifier
 
@@ -37,9 +35,4 @@ Summary of the results obtained from the project.
 
 Details about how to contribute to the project.
 
-## License
 
-Information about the project's license (if any).
-```
-
-Remember to replace `username` and `project` with your GitHub username and the name of your project, respectively. Also, replace `pip install -r requirements.txt` and `python main.py` with the actual commands needed to install and run your project.
